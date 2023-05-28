@@ -47,6 +47,11 @@
 
 ## Output:
 
+![image](https://github.com/Subhikshaa13/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/118787344/5f19ee21-c8f3-411f-8f3d-2cb7572e7976)
+![image](https://github.com/Subhikshaa13/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/118787344/5029eb25-fe8d-48e6-a9b9-cdb73499628b)
+![image](https://github.com/Subhikshaa13/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/118787344/210c9026-df7f-4683-a0e4-e0725ecbc836)
+
+
 ### Name:Subhikshaa M
 ### Register Number:212222230151
 
